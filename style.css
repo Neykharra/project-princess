@@ -1,0 +1,239 @@
+.Valentine {
+
+    font-style: italic;
+    color: pink;
+    position: absolute;
+    display: flex;
+    bottom: 55%;
+    right: 40%;
+}
+
+.Nolove {
+    font-style: italic;
+    color: pink;
+    position: absolute;
+    display: flex;
+    top: 15%;
+    right: 45%
+}
+
+.pleure {
+    font-style: italic;
+    color: pink;
+    position: absolute;
+    display: flex;
+    top: 15%;
+    right: 46.5%
+}
+
+.Vraiment {
+    font-style: italic;
+    color: pink;
+    position: absolute;
+    display: flex;
+    top: 20%;
+    right: 48%;
+}
+
+.Love {
+    font-style: italic;
+    color: pink;
+    position: absolute;
+    display: flex;
+    top: 20%;
+    right: 33%;
+}
+
+.NoloveForever {
+    font-style: italic;
+    color: pink;
+    position: absolute;
+    display: flex;
+    top: 15%;
+    right: 39.5%;
+}
+
+.finalLove {
+    font-style: italic;
+    color: pink;
+    position: absolute;
+    display: flex;
+    top: 20%;
+    right: 35.5%;
+}
+
+.nomariage {
+    font-style: italic;
+    color: pink;
+    position: absolute;
+    display: flex;
+    bottom: 10%;
+    right: 43%;
+}
+
+.kuromicry {
+    display: flex;
+    position: absolute;
+    right: 45%;
+    bottom: 50%;
+}
+
+.kuromireally {
+    display: flex;
+    position: absolute;
+    right: 45%;
+    bottom: 50%;
+}
+
+.kuromilove {
+    display: flex;
+    position: absolute;
+    right: 43%;
+    bottom: 30%;
+}
+
+.kuromihope {
+    display: flex;
+    position: absolute;
+    right: 46.5%;
+    bottom: 46%;
+}
+
+.kuromifullcry {
+    display: flex;
+    position: absolute;
+    right: 44.5%;
+    bottom: 48%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
+
+.btn1 {
+
+    font-family: Roboto, sans-serif;
+    font-weight: 0;
+    font-size: 14px;
+    color: #fff;
+    background: linear-gradient(90deg, #f3c3ff 0%, #fee9ff 100%);
+    padding: 10px 30px;
+    border: solid #000000 2px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    transition: 1000ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    bottom: 40%;
+    right: 60%;
+}
+
+.btn1:hover {
+
+    transition: 1000ms;
+    padding: 10px 50px;
+    transform: translateY(-0px);
+    background: linear-gradient(90deg, #f3c3ff 0%, #fee9ff 100%);
+    color: #000000;
+    border: solid 2px #ffffff;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
+
+.btn2 {
+
+    font-family: Roboto, sans-serif;
+    font-weight: 0;
+    font-size: 14px;
+    color: #000000;
+    background: linear-gradient(90deg, #a60000 0%, #990000 100%);
+    padding: 10px 30px;
+    border: solid #ffffff 2px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    transition: 1397ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    bottom: 40%;
+    right: 36%;
+}
+
+.btn2:hover {
+
+    transition: 1397ms;
+    padding: 10px 50px;
+    transform: translateY(-0px);
+    background: linear-gradient(90deg, #a60000 0%, #990000 100%);
+    color: #ffffff;
+    border: solid 2px #000000;
+}
+
+.btn3 {
+
+    font-family: Roboto, sans-serif;
+    font-weight: 0;
+    font-size: 14px;
+    color: #000000;
+    background: linear-gradient(90deg, #a60000 0%, #990000 100%);
+    padding: 10px 30px;
+    border: solid #ffffff 2px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    transition: 1397ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    bottom: 39.5%;
+    right: 36%;
+}
+
+.btn3:hover {
+
+    transition: 1397ms;
+    padding: 10px 50px;
+    transform: translateY(-0px);
+    background: linear-gradient(90deg, #a60000 0%, #990000 100%);
+    color: #ffffff;
+    border: solid 2px #000000;
+}
+
+.btn4 {
+
+    font-family: Roboto, sans-serif;
+    font-weight: 0;
+    font-size: 14px;
+    color: #000000;
+    background: linear-gradient(90deg, #a60000 0%, #990000 100%);
+    padding: 10px 30px;
+    border: solid #ffffff 2px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    transition: 1397ms;
+    transform: translateY(0);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+    position: absolute;
+    bottom: 39.5%;
+    right: 36%;
+}
+
+.btn4:hover {
+
+    transition: 1397ms;
+    padding: 10px 50px;
+    transform: translateY(-0px);
+    background: linear-gradient(90deg, #a60000 0%, #990000 100%);
+    color: #ffffff;
+    border: solid 2px #000000;
+}
